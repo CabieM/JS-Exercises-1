@@ -1,0 +1,29 @@
+#container1 {
+	width: 33%;
+	min-height: 250px;
+	max-height: 600px;
+	background-color: #AED6F1;
+	float: left;
+	text-align: center;
+	
+}
+
+#container2 {
+	width: 33%;
+	min-height: 250px;
+	max-height: 600px;
+	background-color: #AED6F1;
+	margin-left: 5px;
+	float: left;
+	text-align: center;
+	
+}
+
+#container3 {
+	width: 33%;
+	min-height: 250px;
+	max-height: 600px;
+	background-color: #AED6F1;
+	float: right;
+	text-align: center;
+}
